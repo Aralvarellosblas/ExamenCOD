@@ -18,6 +18,7 @@ public class ExCOD1Av {
         // TODO code application logic here
         System.out.println("Commit A");
         System.out.println("Commit B");
+        System.out.println("Commit C");
     }
     
 }
